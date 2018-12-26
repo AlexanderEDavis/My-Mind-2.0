@@ -1,0 +1,11 @@
+framework module SwiftForms {
+  umbrella header "SwiftForms.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftForms.Swift {
+    header "SwiftForms-Swift.h"
+    requires objc
+}

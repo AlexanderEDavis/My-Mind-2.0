@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.8.2",
+  "iOS" : [
+    {
+      "name" : "SwiftForms",
+      "hash" : "7762f57c5a4174efcced3bed1ae5cee63a9d0be11881e95334c247391ea7d739"
+    }
+  ]
+}
